@@ -1,12 +1,12 @@
 # 7 Uzduotis
 automobiliai = {
-    '1' : {
-        'marke' : 'BMW',
-        'modelis' : 'e46',
-        'metai' : '2003',
-        'spalva' : 'Juoda',
-        'variklis' : 'Benzinas'
-    },
+    # '1' : {
+    #     'marke' : 'BMW',
+    #     'modelis' : 'E46',
+    #     'metai' : '2003',
+    #     'spalva' : 'Juoda',
+    #     'variklis' : 'Benzinas'
+    # },
     '2': {
         'marke' : 'Audi',
         'modelis' : 'A3',
